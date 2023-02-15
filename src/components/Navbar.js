@@ -20,7 +20,10 @@ const styles = {
 function Navbar() {
   return (
     <nav style={styles.navbarStyle} className="navbar">
-      <a href="/">Welcome</a>
+      <a href="/" style={styles.navbarStyle}>About Me</a>
+      <a href="/" style={styles.navbarStyle}>Portfolio</a>
+      <a href="/" style={styles.navbarStyle}>Contact</a>
+      <a href="/" style={styles.navbarStyle}>Resume</a>
     </nav>
   );
 }

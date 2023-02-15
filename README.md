@@ -1,11 +1,10 @@
 # ReactPortfolio
 
 
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
-Acceptance Criteria
-GIVEN a single-page application portfolio for a web developer
+As a viable computer coder I want to show employers that I know how to make react applications. 
+By making this react portfolio employers can assess wheather my style of coding and design work for their business. 
+
+# Useage
 WHEN I load the portfolio
 THEN I am presented with a page containing a header, a section for content, and a footer
 WHEN I view the header
@@ -55,3 +54,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+## Feedback 
+If you have any questions or concerns please feel free to reach out to the creater, Faith Wallace at Faith.Wallace.2@gmail.com.
+Feedback and collaborative inquiries are always welcome.
