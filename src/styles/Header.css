@@ -1,0 +1,19 @@
+.header {
+  background: #b71775;
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.header h2 {
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+}
